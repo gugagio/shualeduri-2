@@ -1,12 +1,12 @@
 console.log('test')
 
-const age1 = 18
-const age2 = 15
+const age1 = 20
+const age2 = 17
 
 if(18<=15){
-    console.log('momxmareblis asaki naklebia an toli 18 ze')
+    console.log('მომხმარებლის ასაკი ნაკლებია ან ტოლი 20-ზე')
 }else{
-    console.log('momxmareblis asaki aris 18 an zemot' )
+    console.log('მომხმარებლის ასაკია 20 ან ზემოთ' )
 }
 
 
